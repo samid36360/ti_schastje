@@ -1,10 +1,3 @@
-// when a circ stops it will become bright
-// and while it moves it is grey
-
-
-
-
-
 class circ {
 	constructor (x, y, vx, vy, r) {
 		this.x=x
